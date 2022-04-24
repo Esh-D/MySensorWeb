@@ -1,0 +1,53 @@
+.landingContainer {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #194868;
+}
+
+.landingCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color: #95A9B8; /* #194868; /* #839394FF; */ 
+    height: 250px;
+    padding: 80px;
+}
+
+.landingLogoImage {
+    width: 175px;
+    height: 175px;
+}
+
+.landingLogo {
+    font-weight: 800;
+    font-size: 50px;
+    margin: 0px 30px 0px 30px;
+    color: black;
+}
+
+.authButtons {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.authButton {
+    background-color: #194868;
+    color: white;
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+    width: 80px;
+    height: 25px;
+    border-radius: 5px;
+    box-shadow: 5px ;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}

@@ -1,0 +1,16 @@
+.sidebar {
+    flex: 1;
+    background-color: red;
+}
+
+.sbWrapper {
+
+}
+
+.sbList {
+    list-style: none;
+}
+
+.sbListItem {
+    cursor: pointer;
+}
