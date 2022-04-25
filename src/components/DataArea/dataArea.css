@@ -1,8 +1,27 @@
 .dataArea {
     flex: 6;
-    background-color: green;
+    background-color: #194868;
 }
 
 .daWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
+.daSensors {
+    margin-top: 30px;
+    display: flex;
+}
+
+.daSensor {
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.daSensorData {
+    margin-top: 30px;
 }

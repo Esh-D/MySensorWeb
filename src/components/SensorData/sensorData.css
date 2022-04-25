@@ -1,0 +1,19 @@
+.sensorData {
+    flex: 2;
+}
+
+.sdWrapper {
+    width: 150px;
+    height: 200px;
+    border: 5px dashed;
+    border-radius: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sdData {
+    margin: 5px;
+}

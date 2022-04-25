@@ -1,0 +1,16 @@
+.topbar {
+    width: 100%;
+    background-color: #95A9B8;
+}
+
+.tbWrapper {
+    padding: 30px 40px 30px 40px ;
+    font-size: 28px;
+    color: #194868;
+    text-align: center;
+}
+
+.tbDevName {
+    font-weight: bold;
+    font-size: 35px;
+}
