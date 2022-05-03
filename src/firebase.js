@@ -4,13 +4,7 @@ import "firebase/compat/auth"
 import "firebase/compat/firestore" 
 
 const app = firebase.initializeApp({
-  apiKey: "AIzaSyCEoApDP106fd3M7zkNWLmAopXiJEsYkGE",
-  authDomain: "mysensor-db23b.firebaseapp.com",
-  projectId: "mysensor-db23b",
-  storageBucket: "mysensor-db23b.appspot.com",
-  messagingSenderId: "394408075125",
-  appId: "1:394408075125:web:294395e56ea179da247d3c",
-  measurementId: "G-N24X5FHXSF"
+  //removed initialization info
 })
 
 export const auth = app.auth()
