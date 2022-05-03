@@ -9,13 +9,7 @@ require("firebase/compat/firestore");
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCEoApDP106fd3M7zkNWLmAopXiJEsYkGE",
-  authDomain: "mysensor-db23b.firebaseapp.com",
-  projectId: "mysensor-db23b",
-  storageBucket: "mysensor-db23b.appspot.com",
-  messagingSenderId: "394408075125",
-  appId: "1:394408075125:web:294395e56ea179da247d3c",
-  measurementId: "G-N24X5FHXSF"
+  //firebase config info removed
 };
 
 // Initialize Firebase
